@@ -1,0 +1,2 @@
+rootProject.name='Hyena TestForeground Service'
+include ':app'
